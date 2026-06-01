@@ -16,6 +16,9 @@ A delightful macOS menu bar app that sends an animated bird flying across your s
 ## 📸 Preview
  
 > A bird flies across your screen carrying your meeting name — hard to miss, impossible to hate.
+
+https://github.com/user-attachments/assets/29b3a11f-b0f9-4009-a02c-87371e7f368a
+
  
 ---
  
