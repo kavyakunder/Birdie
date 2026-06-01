@@ -1,8 +1,12 @@
-# 🐦 Birdie
+# Birdie
  
 A delightful macOS menu bar app that sends an animated bird flying across your screen to remind you about upcoming Google Calendar events.
+
+ <h1 align="center">
+  <img src="./birdie-logo.png" alt="Birdie" width="300" />
  
----
+</h1>
+
  
 ## ✨ Features
  
